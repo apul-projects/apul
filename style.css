@@ -39,6 +39,7 @@ body {
 	padding: 1;
 	background: #303030;
 	background-image:url(https://cdn.discordapp.com/attachments/1142100743625654375/1143142443466891274/APUL_1.gif?width=1920&height=1080);
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+ 	background-repeat: repeat-n;
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #000000;
 }
