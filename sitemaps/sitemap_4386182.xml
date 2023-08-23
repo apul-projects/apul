@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://projects.apul.pro/</loc>
+       <lastmod>2023-08-23T14:03:46+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://projects.apul.pro/dsc</loc>
+       <lastmod>2023-08-23T14:03:46+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://projects.apul.pro/dsc-yt/</loc>
+       <lastmod>2023-08-23T14:03:46+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://projects.apul.pro/dsc-yt/dist/</loc>
+       <lastmod>2023-08-23T14:03:46+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://projects.apul.pro/discord</loc>
+       <lastmod>2023-08-23T14:03:46+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+</urlset>
